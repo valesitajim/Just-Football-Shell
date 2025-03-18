@@ -14,7 +14,7 @@ This script offers essential command-line tools, history tracking, file manageme
   - `game`: A number guessing game.
   - `help`: Displays available commands.
   - `listar`: Lists files in the current directory.
-  - `archivos`: Prints the current working directory.
+  - `ruta`: Prints the current working directory.
   - `autokill`: Terminates the shell session.
   - `exit`: To exit the shell
 - **History Management**: Keeps track of previously executed commands.
